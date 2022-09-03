@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.title-page {
+  text-transform: uppercase;
+  margin: 20px;
+  text-align: center;
+  font-size: 50px;
+  font-family: fantasy;
+  color: rgb(20, 20, 91);
+}
+.login {
+  text-align: center;
+  padding-top: 20px;
+}
+
